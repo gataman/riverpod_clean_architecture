@@ -1,5 +1,5 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:riverpod_clean_architecture/constants/app_constants.dart';
+import '../../../../../constants/app_constants.dart';
 import '../../../../../core/index.dart';
 
 import '../../../domain/usecases/user/module.dart';

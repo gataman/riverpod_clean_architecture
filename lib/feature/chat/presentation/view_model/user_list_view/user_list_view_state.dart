@@ -1,5 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:riverpod_clean_architecture/feature/chat/domain/model/user/user_model.dart';
+import '../../../domain/model/user/user_model.dart';
 
 part 'user_list_view_state.freezed.dart';
 

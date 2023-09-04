@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:riverpod_clean_architecture/constants/app_constants.dart';
-import 'package:riverpod_clean_architecture/feature/chat/domain/usecases/chat/module.dart';
 
+import '../../../../../constants/app_constants.dart';
 import '../../../domain/model/message/message.dart';
+import '../../../domain/usecases/chat/module.dart';
 import 'chat_view_state.dart';
 
 class ChatViewModel extends StateNotifier<ChatViewState> {
