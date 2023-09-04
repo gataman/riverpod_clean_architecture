@@ -1,7 +1,7 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+
 import '../../repository/module.dart';
 import 'check_users_chat_usecase.dart';
-
 import 'index.dart';
 
 final getAllChatUseCase = Provider<GetAllChatUseCase>((ref) {

@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:riverpod_clean_architecture/feature/chat/data/data_sources/remote/supabase/index.dart';
 import 'package:riverpod_clean_architecture/feature/chat/data/module.dart';
-import 'package:riverpod_clean_architecture/feature/chat/data/remote/supabase/index.dart';
 import 'package:riverpod_clean_architecture/feature/chat/domain/model/message/message.dart';
 
 import '../../../../../service_helper.dart';

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:riverpod_clean_architecture/constants/app_constants.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
+import 'constants/app_constants.dart';
 import 'feature/chat/presentation/views/user_list_view.dart';
 
 void main() async {

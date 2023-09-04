@@ -1,4 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
+
 import '../user/user_model.dart';
 
 part 'chat_with_users.freezed.dart';

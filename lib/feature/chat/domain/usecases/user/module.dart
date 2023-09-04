@@ -1,6 +1,6 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import '../../repository/module.dart';
 
+import '../../repository/module.dart';
 import 'index.dart';
 
 final getAllUserUseCase = Provider<GetAllUserUseCase>((ref) {

@@ -1,4 +1,4 @@
-import 'package:riverpod_clean_architecture/core/index.dart';
+import '../../../index.dart';
 
 abstract class BaseGetAllUseCase<T extends BaseModel>
     extends BaseUseCase<List<T>, DataFilter?> {

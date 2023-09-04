@@ -1,4 +1,4 @@
-import 'package:riverpod_clean_architecture/core/index.dart';
+import '../../../../../core/index.dart';
 
 import '../../model/message/message.dart';
 import '../../repository/message_repository.dart';

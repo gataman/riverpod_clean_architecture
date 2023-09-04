@@ -1,8 +1,8 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:riverpod_clean_architecture/feature/chat/domain/repository/module.dart';
-import 'package:riverpod_clean_architecture/feature/chat/domain/usecases/message/listen_message_usecase.dart';
 
+import '../../repository/module.dart';
 import 'index.dart';
+import 'listen_message_usecase.dart';
 
 final getAllMessageUseCase = Provider<GetAllMessageUseCase>((ref) {
   final repository = ref.read(messageRepository);

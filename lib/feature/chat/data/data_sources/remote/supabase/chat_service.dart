@@ -1,6 +1,6 @@
-import '../../../../../core/index.dart';
-import '../../../domain/model/chat/chat.dart';
-import '../../../domain/model/chat/chat_with_users.dart';
+import '../../../../../../core/index.dart';
+import '../../../../domain/model/chat/chat.dart';
+import '../../../../domain/model/chat/chat_with_users.dart';
 
 class ChatService extends BaseSupabaseService<Chat> {
   @override

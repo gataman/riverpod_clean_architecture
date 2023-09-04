@@ -1,7 +1,7 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+
 import '../../../../../constants/app_constants.dart';
 import '../../../../../core/index.dart';
-
 import '../../../domain/usecases/user/module.dart';
 import 'user_list_view_state.dart';
 

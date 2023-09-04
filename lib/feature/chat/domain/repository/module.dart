@@ -1,6 +1,7 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:riverpod_clean_architecture/feature/chat/domain/repository/user_repository.dart'
     show UserRepository;
+
 import '../../data/module.dart';
 import '../../data/repository/index.dart';
 import 'chat_repository.dart';

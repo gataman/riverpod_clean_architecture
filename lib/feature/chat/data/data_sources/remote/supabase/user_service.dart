@@ -1,5 +1,5 @@
-import '../../../../../core/index.dart';
-import '../../../domain/model/user/user_model.dart';
+import '../../../../../../core/index.dart';
+import '../../../../domain/model/user/user_model.dart';
 
 class UserService extends BaseSupabaseService<UserModel> {
   @override

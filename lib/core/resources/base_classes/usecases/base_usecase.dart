@@ -1,4 +1,4 @@
-import 'package:riverpod_clean_architecture/core/index.dart';
+import '../../../index.dart';
 
 /// Type, Params
 abstract class BaseUseCase<Type, Params> {

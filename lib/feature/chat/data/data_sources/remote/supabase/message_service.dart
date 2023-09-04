@@ -1,5 +1,5 @@
-import '../../../../../core/index.dart';
-import '../../../domain/model/message/message.dart';
+import '../../../../../../core/index.dart';
+import '../../../../domain/model/message/message.dart';
 
 class MessageService extends BaseSupabaseService<Message> {
   @override
