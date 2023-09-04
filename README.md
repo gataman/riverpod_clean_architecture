@@ -12,7 +12,6 @@ The project uses a feature-based folder structure to organize code:
 
 - Riverpod (hooks_riverpod)
 - Supabase
-- Flutter
 - Freezed
 
 ## Getting Started
