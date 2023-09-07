@@ -14,6 +14,10 @@ The project uses a feature-based folder structure to organize code:
 - Supabase
 - Freezed
 
+## Database Scheme Visualizer:
+![Screenshot](./screen_shoot.png)
+
+
 ## Getting Started
 
 1. Clone this repository.
